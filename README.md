@@ -3,7 +3,7 @@
 Automatic Number Plate Recognition (ANPR) system using YOLOv8 in Python. Detects and extracts vehicle license plates from images or video streams with high accuracy. Includes real-time detection, OCR-based text extraction, and easy integration for traffic monitoring or security applications.
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=fyJB1t0o0ms">
+<!-- <a href="https://www.youtube.com/watch?v=fyJB1t0o0ms"> -->
     <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/anpr_yolo2.jpg" alt="Watch the video">
     </br>Watch on YouTube: Automatic number plate recognition with Python, Yolov8 and EasyOCR !
 </a>
